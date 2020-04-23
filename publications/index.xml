@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Yanzeng Li</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Yanzeng Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</title>
+      <link>/publications/acl20/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/acl20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiG-Transformer: Integrating Hierarchical Features for Transformer via Bipartite Graph</title>
+      <link>/publications/wcci20/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/wcci20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICNet: Incorporating Indicator Words and Contexts to Identify Functional Description Information</title>
+      <link>/publications/ijcnn19/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/ijcnn19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character-based BiLSTM-CRF Incorporating POS and Dictionaries for Chinese Opinion Target Extraction</title>
+      <link>/publications/acml18/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/acml18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
