@@ -22,10 +22,19 @@
     
     <item>
       <title>BiG-Transformer: Integrating Hierarchical Features for Transformer via Bipartite Graph</title>
-      <link>/publications/wcci20/</link>
+      <link>/publications/ijcnn20/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/wcci20/</guid>
+      <guid>/publications/ijcnn20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2ch-TCN: A Website Fingerprinting Attack over Tor Using 2-channel Temporal Convolutional Networks</title>
+      <link>/publications/iscc20/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/iscc20/</guid>
       <description></description>
     </item>
     

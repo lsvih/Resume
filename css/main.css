@@ -11,6 +11,11 @@ a {
     font-weight: bold
 }
 
+em {
+    font-weight: normal;
+    text-decoration: underline solid #9c3f43;
+}
+
 a:hover,
 a:focus {
     text-decoration: underline;
@@ -409,6 +414,10 @@ body {
 
 .post .post-content {
     color: #333
+}
+
+.post .post-content li {
+    padding-bottom: 8px;
 }
 
 .post .post-content h2,
