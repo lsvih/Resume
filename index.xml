@@ -8,6 +8,15 @@
     <language>zh-cn</language>
     <lastBuildDate>Sun, 31 May 2020 01:10:46 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>FITAnnotator: A Flexible and Intelligent Text Annotation System</title>
+      <link>/publications/naacl21/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/naacl21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</title>
       <link>/publications/acl20/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
