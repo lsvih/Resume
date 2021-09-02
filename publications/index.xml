@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relation Extraction based on Data Partition and Representation Integration</title>
+      <link>/publications/ieeedsc21/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/ieeedsc21/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>FITAnnotator: A Flexible and Intelligent Text Annotation System</title>
       <link>/publications/naacl21/</link>
