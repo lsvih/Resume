@@ -931,3 +931,11 @@ body {
 .btn {
     transition: background-color .25s ease-out;
 }
+
+/* Corresponding Author */
+.corresponding {
+    color: #b5402e;
+    font-size: 20px;
+    cursor: pointer;
+    padding-left: 2px;
+}

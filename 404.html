@@ -132,6 +132,16 @@
 <script src="https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/dist/js/lightgallery-all.min.js"></script>
 <script src="/js/figure.js"></script>
 
+<script src="/js/easyTooltip.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function(e) {
+    console.log($(".corresponding"))
+    $(".corresponding").easyTooltip({
+        content: "<b>Corresponding Author</b>"
+    })
+})
+</script>
+
 
 <script type="application/javascript">
 var doNotTrack = false;
