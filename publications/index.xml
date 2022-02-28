@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Chinese Pre-trained Language Model via Heterogeneous Linguistics Graph</title>
+      <link>/publications/acl22/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/acl22/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Semi-Open Attribute Extraction from Chinese Functional Description Text</title>
       <link>/publications/acml21/</link>
