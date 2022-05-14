@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publications/acl22/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+    <loc>/publications/naacl22/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/seke22/</loc>
+    <lastmod>2022-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/acl22/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/acml21/</loc>
@@ -19,12 +25,6 @@
   </url><url>
     <loc>/publications/ieeedsc21/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/naacl22/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/seke22/</loc>
-    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/naacl21/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>

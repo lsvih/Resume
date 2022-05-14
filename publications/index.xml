@@ -6,7 +6,25 @@
     <description>Recent content in Publications on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base</title>
+      <link>/publications/naacl22/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/naacl22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Pre-Trained Language Representations Based on Contrastive Learning for Unsupervised Keyphrase Extraction</title>
+      <link>/publications/seke22/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/seke22/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Enhancing Chinese Pre-trained Language Model via Heterogeneous Linguistics Graph</title>
       <link>/publications/acl22/</link>
@@ -40,24 +58,6 @@
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/publications/ieeedsc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base</title>
-      <link>/publications/naacl22/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/naacl22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Pre-Trained Language Representations Based on Contrastive Learning for Unsupervised Keyphrase Extraction</title>
-      <link>/publications/seke22/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/seke22/</guid>
       <description></description>
     </item>
     
