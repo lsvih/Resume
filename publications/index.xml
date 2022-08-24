@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gBuilder: A Scalable Knowledge Graph Construction System for Unstructured Corpus</title>
+      <link>/publications/arxiv22-1/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/arxiv22-1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph</title>
       <link>/publications/iswc22d/</link>
