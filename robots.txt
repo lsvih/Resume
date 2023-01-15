@@ -1,0 +1,3 @@
+User-agent: *
+Allow: .htm$
+Disallow: /
