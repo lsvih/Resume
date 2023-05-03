@@ -8,6 +8,33 @@
     <language>zh-cn</language>
     <lastBuildDate>Thu, 02 Sep 2021 11:10:46 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AtTGen: Attribute Tree Generation for Real-World Attribute Joint Extraction</title>
+      <link>/publications/acl23/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/acl23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Table-to-Graph Generation Approach for Document-Level Joint Entity and Relation Extraction</title>
+      <link>/publications/acl23r/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/acl23r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Ubiquitous Mentions for Document-Level Relation Extraction</title>
+      <link>/publications/sigir23/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/sigir23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>gBuilder: A Scalable Knowledge Graph Construction System for Unstructured Corpus</title>
       <link>/publications/arxiv22-1/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
