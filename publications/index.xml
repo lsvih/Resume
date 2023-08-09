@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CORD: A Three-Stage Coarse-to-Fine Framework for Relation Detection in Knowledge Base Question Answering</title>
+      <link>/publications/cikm23/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cikm23/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AtTGen: Attribute Tree Generation for Real-World Attribute Joint Extraction</title>
       <link>/publications/acl23/</link>
