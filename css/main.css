@@ -932,10 +932,17 @@ body {
     transition: background-color .25s ease-out;
 }
 
-/* Corresponding Author */
-.corresponding {
+
+.superscript {
     color: #b5402e;
     font-size: 20px;
     cursor: pointer;
     padding-left: 2px;
+}
+
+.equally-contribution {
+    position: relative;
+    top: -0.5em;
+    font-size: 80%;
+    font-weight: bold;
 }
