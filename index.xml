@@ -6,204 +6,161 @@
     <description>Recent content in About Me on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Sep 2021 11:10:46 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 11:10:46 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLMaAA: Making Large Language Models as Active Annotators</title>
       <link>/publications/emnlp23/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/emnlp23/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Two is Better Than One: Answering Complex Questions by Multiple Knowledge Sources with Generalized Links</title>
       <link>/publications/arxiv23-2/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/arxiv23-2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources</title>
       <link>/publications/arxiv23-1/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/arxiv23-1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CORD: A Three-Stage Coarse-to-Fine Framework for Relation Detection in Knowledge Base Question Answering</title>
       <link>/publications/cikm23/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/cikm23/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AtTGen: Attribute Tree Generation for Real-World Attribute Joint Extraction</title>
       <link>/publications/acl23/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/acl23/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A Novel Table-to-Graph Generation Approach for Document-Level Joint Entity and Relation Extraction</title>
       <link>/publications/acl23r/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/acl23r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exploiting Ubiquitous Mentions for Document-Level Relation Extraction</title>
       <link>/publications/sigir23/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>/publications/sigir23/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>gBuilder: A Scalable Knowledge Graph Construction System for Unstructured Corpus</title>
       <link>/publications/arxiv22-1/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>/publications/arxiv22-1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph</title>
       <link>/publications/iswc22d/</link>
       <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>/publications/iswc22d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introducing Semantic Information for Numerical Attribute Prediction over Knowledge Graphs</title>
       <link>/publications/iswc22/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>/publications/iswc22/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base</title>
       <link>/publications/naacl22/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/publications/naacl22/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Enhancing Pre-Trained Language Representations Based on Contrastive Learning for Unsupervised Keyphrase Extraction</title>
       <link>/publications/seke22/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/publications/seke22/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Enhancing Chinese Pre-trained Language Model via Heterogeneous Linguistics Graph</title>
       <link>/publications/acl22/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>/publications/acl22/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Semi-Open Attribute Extraction from Chinese Functional Description Text</title>
       <link>/publications/acml21/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>/publications/acml21/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Identifying Reply Relationships from Telegram Groups Using Multi-Features Fusion</title>
       <link>/publications/mdata21/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>/publications/mdata21/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Relation Extraction based on Data Partition and Representation Integration</title>
       <link>/publications/ieeedsc21/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>/publications/ieeedsc21/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FITAnnotator: A Flexible and Intelligent Text Annotation System</title>
       <link>/publications/naacl21/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>/publications/naacl21/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</title>
       <link>/publications/acl20/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publications/acl20/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BiG-Transformer: Integrating Hierarchical Features for Transformer via Bipartite Graph</title>
       <link>/publications/ijcnn20/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publications/ijcnn20/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2ch-TCN: A Website Fingerprinting Attack over Tor Using 2-channel Temporal Convolutional Networks</title>
       <link>/publications/iscc20/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publications/iscc20/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ICNet: Incorporating Indicator Words and Contexts to Identify Functional Description Information</title>
       <link>/publications/ijcnn19/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publications/ijcnn19/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Character-based BiLSTM-CRF Incorporating POS and Dictionaries for Chinese Opinion Target Extraction</title>
       <link>/publications/acml18/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publications/acml18/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
