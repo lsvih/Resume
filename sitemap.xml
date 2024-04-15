@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/publications/emnlp23/</loc>
+    <loc>/publications/emnlp23/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/arxiv23-2/</loc>
+    <loc>/publications/arxiv23-2/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/arxiv23-1/</loc>
+    <loc>/publications/arxiv23-1/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/cikm23/</loc>
+    <loc>/publications/cikm23/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/acl23/</loc>
+    <loc>/publications/acl23/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/acl23r/</loc>
+    <loc>/publications/acl23r/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/sigir23/</loc>
+    <loc>/publications/sigir23/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/arxiv22-1/</loc>
+    <loc>/publications/arxiv22-1/</loc>
     <lastmod>2022-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/iswc22d/</loc>
+    <loc>/publications/iswc22d/</loc>
     <lastmod>2022-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/iswc22/</loc>
+    <loc>/publications/iswc22/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/naacl22/</loc>
+    <loc>/publications/naacl22/</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/seke22/</loc>
+    <loc>/publications/seke22/</loc>
     <lastmod>2022-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/acl22/</loc>
+    <loc>/publications/acl22/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/acml21/</loc>
+    <loc>/publications/acml21/</loc>
     <lastmod>2021-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/mdata21/</loc>
+    <loc>/publications/mdata21/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2021-09-02T11:10:46+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/ieeedsc21/</loc>
+    <loc>/publications/ieeedsc21/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/naacl21/</loc>
+    <loc>/publications/naacl21/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/acl20/</loc>
+    <loc>/publications/acl20/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/ijcnn20/</loc>
+    <loc>/publications/ijcnn20/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/iscc20/</loc>
+    <loc>/publications/iscc20/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/ijcnn19/</loc>
+    <loc>/publications/ijcnn19/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/acml18/</loc>
+    <loc>/publications/acml18/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
