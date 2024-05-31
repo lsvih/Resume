@@ -6,8 +6,15 @@
     <description>Recent content in Publications on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging Large Language Model as Simulated Patients for Clinical Education</title>
+      <link>/publications/arxiv24-1/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/arxiv24-1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>LLMaAA: Making Large Language Models as Active Annotators</title>
       <link>/publications/emnlp23/</link>
