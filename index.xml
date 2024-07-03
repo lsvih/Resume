@@ -6,8 +6,15 @@
     <description>Recent content in About Me on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources</title>
+      <link>/publications/apweb24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/apweb24/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Leveraging Large Language Model as Simulated Patients for Clinical Education</title>
       <link>/publications/arxiv24-1/</link>
@@ -27,13 +34,6 @@
       <link>/publications/arxiv23-2/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/publications/arxiv23-2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ADMUS: A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources</title>
-      <link>/publications/arxiv23-1/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/publications/arxiv23-1/</guid>
       <description></description>
     </item>
     <item>
