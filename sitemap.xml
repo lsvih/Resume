@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publications/apweb24/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <loc>/publications/arxiv25-2/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/arxiv25-1/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/arxiv25/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/apweb24/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publications/arxiv24-1/</loc>

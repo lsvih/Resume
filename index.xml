@@ -6,8 +6,29 @@
     <description>Recent content in About Me on Yanzeng Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking</title>
+      <link>/publications/arxiv25-2/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/arxiv25-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure</title>
+      <link>/publications/arxiv25-1/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/arxiv25-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient</title>
+      <link>/publications/arxiv25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/arxiv25/</guid>
+      <description></description>
+    </item>
     <item>
       <title>A Progressive Question Answering Framework Adaptable to Multiple Knowledge Sources</title>
       <link>/publications/apweb24/</link>
