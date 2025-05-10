@@ -4,10 +4,31 @@
     <title>Publications on Yanzeng Li</title>
     <link>/publications/</link>
     <description>Recent content in Publications on Yanzeng Li</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synergistic Knowledge Integration for Answering Complex Questions with Multiple Sources</title>
+      <link>/publications/apweb25/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/apweb25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure</title>
+      <link>/publications/wwwj25/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/wwwj25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Comprehensive Survey of Reward Models: Taxonomy, Applications, Challenges, and Future</title>
+      <link>/publications/arxiv25-1/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/arxiv25-1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking</title>
       <link>/publications/arxiv25-2/</link>
@@ -16,17 +37,17 @@
       <description></description>
     </item>
     <item>
-      <title>DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure</title>
-      <link>/publications/arxiv25-1/</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/publications/arxiv25-1/</guid>
+      <title>MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient</title>
+      <link>/publications/ijcai25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publications/ijcai25/</guid>
       <description></description>
     </item>
     <item>
-      <title>MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient</title>
-      <link>/publications/arxiv25/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/publications/arxiv25/</guid>
+      <title>MMPKUBase: A Comprehensive and High-quality Chinese Multi-modal Knowledge Graph</title>
+      <link>/publications/arxiv24-2/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publications/arxiv24-2/</guid>
       <description></description>
     </item>
     <item>
